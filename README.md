@@ -59,8 +59,9 @@ Every project below is open source and either live, or one command away from bei
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhabyanrafnannq&repo=benford-apbd&theme=tokyonight&hide_border=true" alt="benford-apbd" />
       </a>
       <br/>
-      <b>Benford APBD</b> — a forensic screen for regional budgets &amp; village funds: first/second-digit tests,
-      deviation ranking across provinces, and a full Streamlit report.
+      <b>Benford APBD</b> — a forensic screen for regional budgets &amp; village funds (DJPK): first-, second- and
+      first-two-digit tests, regions and spending types ranked by deviation with bootstrap confidence intervals.
+      It's an indication worth auditing, never proof.
       <br/>
       <sub><b>Python · statsmodels · Streamlit</b></sub>
       <br/>
